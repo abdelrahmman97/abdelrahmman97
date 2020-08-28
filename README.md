@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Abdelrahman Mahmoud</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
 <h3 align="center">An asp.net mvc full developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmman97" alt="abdelrahmman97" /> </p>
 
 - 🌱 I’m currently learning **asp.net mvc then asp.net core**
+
+- 💬 Ask me about **asp.net mvc, php, js, html, css**
 
 - 📫 How to reach me **mabdelrahmman22@gmail.com or abdelrahman_m97@yahoo.com**
 
@@ -31,5 +33,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdelrahman1097" height="30" width="30" /></a>
+<a href="https://fb.com/abdelrahman.m97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdelrahman.m97" height="30" width="30" /></a>
 <a href="https://medium.com/@mabdelrahmman22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mabdelrahmman22" height="30" width="30" /></a>
 </p>
