@@ -31,8 +31,13 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmman97&show_icons=true" alt="abdelrahmman97" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdelrahman1097" height="30" width="30" /></a>
-<a href="https://fb.com/abdelrahman.m97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdelrahman.m97" height="30" width="30" /></a>
-<a href="https://medium.com/@mabdelrahmman22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mabdelrahmman22" height="30" width="30" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/abdelrahman97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abdelrahman97" height="30" width="40" /></a>
+<a href="https://twitter.com/a_mahmoud97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a_mahmoud97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdelrahman1097" height="30" width="40" /></a>
+<a href="https://fb.com/abdelrahman.m97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdelrahman.m97" height="30" width="40" /></a>
+<a href="https://instagram.com/abdelrahman.m97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abdelrahman.m97" height="30" width="40" /></a>
+<a href="https://dribbble.com/abdelrahman_m97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="abdelrahman_m97" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@abdelrahman_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@abdelrahman_m" height="30" width="40" /></a>
 </p>
