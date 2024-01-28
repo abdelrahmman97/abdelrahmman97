@@ -9,17 +9,11 @@
 - 🤓 Consistent with adding more to my knowledge.
 - 🤔 Have a `job offer` for me, here is my portfolio [↗️](https://abdelrahmman97.github.io/portfolio/).
 - 💬 Ask me about `HTML`, `CSS`, `JS`, `Bootstrap`, `Tailwind CSS`, `Angular`, `SQL` ,`.Net Core`
--  How to reach me [📧](abdelrahman.m1097@gmail.com)
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdelrahman1097" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman1097" height="30" width="40" />
-</a>
-<a href="mailto:abdelrahman.m1097@gmail.com" target="blank">
-  <img align="center" src="https://github.com/abdelrahmman97/abdelrahmman97/assets/60822166/bdaec1ed-db71-49eb-a250-4bdf678b69a9" alt="abdelrahman.m1097@gmail.com" height="40" width="40" />
-</a>
-
+<a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman1097" height="30" width="40" /></a>
+<a href="mailto:abdelrahman.m1097@gmail.com" target="blank"><img align="center" src="https://github.com/abdelrahmman97/abdelrahmman97/assets/60822166/bdaec1ed-db71-49eb-a250-4bdf678b69a9" alt="abdelrahman.m1097@gmail.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
