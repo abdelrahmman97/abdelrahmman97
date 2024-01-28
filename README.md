@@ -14,7 +14,7 @@
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman1097" height="30" width="40" /></a>
-  ![[image](https://github.com/abdelrahmman97/abdelrahmman97/assets/60822166/bdaec1ed-db71-49eb-a250-4bdf678b69a9)](abdelrahman.m1097@gmail.com)
+<a href="abdelrahman.m1097@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/abdelrahmman97/abdelrahmman97/assets/60822166/bdaec1ed-db71-49eb-a250-4bdf678b69a9)" alt="abdelrahman.m1097@gmail.com" height="30" width="40" /></a>
 
 </p>
 
