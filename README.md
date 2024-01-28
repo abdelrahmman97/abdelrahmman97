@@ -9,9 +9,9 @@
 - 🤓 Consistent with adding more to my knowledge.
 - 🤔 Have a `job offer` for me, here is my portfolio [↗️](https://abdelrahmman97.github.io/portfolio/).
 - 💬 Ask me about `HTML`, `CSS`, `JS`, `Bootstrap`, `Tailwind CSS`, `Angular`, `SQL` ,`.Net Core`
-- 📫 How to reach me [📧](abdelrahman.m1097@gmail.com)
+-  How to reach me [📧](abdelrahman.m1097@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman1097" height="30" width="40" /></a>
 </p>
