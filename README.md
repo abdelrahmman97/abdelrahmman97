@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmman97" alt="abdelrahmman97" /></a> </p>
 
-- 🔭 I’m currently working on **Servmart**
-
-- 🌱 I’m currently learning **.Net Core**
-
+- 🏫 `Fresh Graduate` from Faculty of Computers & Information at Luxor University 2021. 
+- 👨‍🎓 Junior `Full Stack Web` Developer.
+- 🧑‍💻 Currently learning `.Net Core` and `Angular`.
+- 🤓 Consistent with adding more to my knowledge.
+- 🤔 Currently open for a new `job opportunity`, this is my portfolio ↗️
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwindcss, Angular, .Net Core**
-
 - 📫 How to reach me **abdelrahman.m1097@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
