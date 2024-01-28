@@ -7,8 +7,8 @@
 - 👨‍🎓 Junior `Full Stack Web` Developer.
 - 🧑‍💻 Currently learning `.Net Core` and `Angular`.
 - 🤓 Consistent with adding more to my knowledge.
-- 🤔 Have a job offer for me `job opportunity`, here is my portfolio [↗️](https://abdelrahmman97.github.io/portfolio/).
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwindcss, Angular, .Net Core**
+- 🤔 Have a `job offer` for me, here is my portfolio [↗️](https://abdelrahmman97.github.io/portfolio/).
+- 💬 Ask me about `HTML`, `CSS`, `JS`, `Bootstrap`, `Tailwind CSS`, `Angular`, `SQL` ,`.Net Core`
 - 📫 How to reach me **abdelrahman.m1097@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
