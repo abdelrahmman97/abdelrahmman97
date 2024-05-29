@@ -30,5 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmman97&show_icons=true&locale=en" alt="abdelrahmman97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmman97&" alt="abdelrahmman97" /></p>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6656df4db998f3b3c7bb4f71?variant=dark)](https://roadmap.sh)
+<p>[![roadmap.sh](https://roadmap.sh/card/wide/6656df4db998f3b3c7bb4f71?variant=dark)](https://roadmap.sh)</p>
