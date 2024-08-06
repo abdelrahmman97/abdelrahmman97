@@ -1,7 +1,9 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
-<h1 align="center">[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)</h1>
+<p align="center">
+  [![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+</p>
 <h3 align="center">A passionate Full-Stack Web Developer using .Net from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmman97" alt="abdelrahmman97" /></a> </p>
