@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmman97" alt="abdelrahmman97" /></a> </p>
 
 - 🏫 `Fresh Graduate` from `FCI` Faculty of Computers & Information at Luxor University 2021. 
-- 👨‍🎓 Junior `Full Stack Web Developer`.
+- 👨‍🎓 Junior `Full Stack Web Developer` at `Roboost` [↗️](https://roboost.app).
 - 🧑‍💻 Currently learning `.Net Core` and `Angular`.
 - 🤓 Consistent with adding more to my knowledge.
 - 🤔 Have a `job offer` for me, here is my portfolio [↗️](https://abdelrahmman97.github.io/portfolio/).
@@ -27,7 +27,7 @@
 
 - ITI 4 month training, `Full stack web development using .Net and Angular` track.
 - `Full Stack Developer` at Shefaa Al Orman Hospital [↗️](https://www.shefaorman.org/).
-- Currently working as `Front Angular Developer` at Roboost [↗️](https://roboost.app).
+- Currently working as `Front Angular Developer` at `Roboost` [↗️](https://roboost.app).
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
