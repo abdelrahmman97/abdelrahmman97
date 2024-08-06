@@ -1,9 +1,9 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
-<p align="center">
+<div align="center">
   [![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-</p>
+</div>
 <h3 align="center">A passionate Full-Stack Web Developer using .Net from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmman97" alt="abdelrahmman97" /></a> </p>
@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmman97&show_icons=true&locale=en" alt="abdelrahmman97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmman97&" alt="abdelrahmman97" /></p>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6656df4db998f3b3c7bb4f71?variant=dark)](https://roadmap.sh)
