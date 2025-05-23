@@ -27,7 +27,7 @@
 
 - ITI 4 month training, `Full stack web development using .Net and Angular` track.
 - `Full Stack Developer` at Shefaa Al Orman Hospital [↗️](https://www.shefaorman.org/).
-- Currently working as `Front Angular Developer` at `Roboost` [↗️](https://roboost.app).
+- Currently working as `Front-End Angular Developer` at `Roboost` [↗️](https://roboost.app).
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
